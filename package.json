@@ -1,6 +1,6 @@
 
 {
-  "name": "My_Portfolio",
+  "name": "my-portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -17,8 +17,5 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
     "vite": "^6.0.5"
-  },
-  "overrides": {
-    "esbuild": "^0.25.12"
   }
 }
