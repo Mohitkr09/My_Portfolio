@@ -14,10 +14,10 @@ A responsive dark, premium React portfolio with violet accents, designed for sof
 
 Requirements: Node.js 18+
 
-```bash
+
 npm install
 npm run dev
-```
+
 
 Open the local URL printed by Vite.
 
